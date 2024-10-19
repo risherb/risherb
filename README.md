@@ -6,7 +6,7 @@
 - **Decentralized Finance**
 
 ## 🌱 I’m currently learning:
-- Exploring the depths of **DeFi** and its impact on financial ecosystems.
+- Exploring the depths of **DeFi** and **Encryption**
 
 ## ⚡ Fun fact:
 - I can eat **10 burgers in one go**!
