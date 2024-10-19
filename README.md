@@ -11,12 +11,6 @@
 ## ⚡ Fun fact:
 - I can eat **10 burgers in one go**!
 
-<p align="center">
-  <a href="https://linkedin.com/in/rishabhnshetty">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Shetty-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
-</p>
-
 ---
 
 ### 💻 Tech Stack
@@ -60,7 +54,6 @@ Feel free to reach out for collaborations or just to chat about technology and i
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=risherb&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=risherb&theme=radical" alt="GitHub Streak" />
 </p>
 
