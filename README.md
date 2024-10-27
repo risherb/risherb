@@ -38,22 +38,18 @@
 
 ---
 
----
-
 ## 📫 Connect with me:
 <p align="center">
   <a href="https://linkedin.com/in/rishabhnshetty">
     <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Shetty-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
   </a>
+  <a href="mailto:rishabhnshetty2704@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rishabhnshetty2704%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
-
-### 💡 Let’s Connect!
-Feel free to reach out for collaborations or just to chat about technology and innovation!
 
 ---
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=risherb&theme=radical" alt="GitHub Streak" />
 </p>
-
-
