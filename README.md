@@ -40,7 +40,7 @@
 ---
 
 ### 🔥 **Fun Fact**
-- A certified burger warrior 🏆 — *capable of devouring 10 burgers in one go*
+- *capable of devouring 10 burgers in one go*
 
 ---
 
