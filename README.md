@@ -11,7 +11,7 @@
 ---
 
 ## ⚙️ **About Me**
-- 🎯 **Precision-Driven Techie** with interests spanning from **ML** to **DeFi** 
+- 🎯 **Precision-Driven Techie** with interests spanning from **ML** to **DeFi** to **Data Science**
 - 🌌 Currently diving deep into **Encryption** and **Blockchain in Finance**
 
 ---
