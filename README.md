@@ -1,55 +1,66 @@
-# 👋 Hi, I’m [@risherb](https://github.com/risherb)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=2000&color=3FF5E6&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I'm+Rishabh+%7C+%40risherb;AI+%7C+ML+%7C+Finance+%7C+DeFi+Enthusiast" alt="Typing SVG" />
+</p>
 
-## 👀 I’m interested in:
-- **Machine Learning**
-- **Deep Learning**
-- **Decentralized Finance**
-
-## 🌱 I’m currently learning:
-- Exploring the depths of **DeFi** and **Encryption**
-
-## ⚡ Fun fact:
-- I can eat **10 burgers in one go**
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%233377FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-%232892FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DeFi%20and%20Fintech-%230099FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</p>
 
 ---
 
-### 💻 Tech Stack
-- **Programming Languages:** 
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  - ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  - ![C](https://img.shields.io/badge/C-A8B400?style=flat&logo=c&logoColor=white)
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-
-- **Frameworks & Libraries:**
-  - ![React.js](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-  - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white)
-  - ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-- **Tools & Platforms:**
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-  - ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-  - ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+## ⚙️ **About Me**
+- 🎯 **Precision-Driven Techie** with interests spanning from **ML** to **DeFi** 
+- 🌌 Currently diving deep into **Encryption** and **Blockchain in Finance**
 
 ---
 
-## 📫 Connect with me:
+## 💻 **Professional Tech Stack**
+
+<table align="center">
+<tr>
+  <td align="center" width="120"><img src="https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=black"/></td>
+  <td align="center" width="120"><img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/></td>
+  <td align="center" width="120"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/></td>
+  <td align="center" width="120"><img src="https://img.shields.io/badge/C-A8B400.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
+</tr>
+<tr>
+  <td align="center" width="120"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/></td>
+  <td align="center" width="120"><img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/></td>
+  <td align="center" width="120"><img src="https://img.shields.io/badge/TensorFlow-FF6F20.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
+  <td align="center" width="120"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/></td>
+</tr>
+</table>
+
+---
+
+## 📬 **Reach Out**
 <p align="center">
   <a href="https://linkedin.com/in/rishabhnshetty">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishabh%20Shetty-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rishabhnshetty2704@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rishabhnshetty2704%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=risherb&show_icons=true&theme=algolia&hide=contribs,issues" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=risherb&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔥 **Fun Fact**
+- A certified burger warrior 🏆 — *capable of devouring 10 burgers in one go*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=3FF5E6&center=true&width=500&lines=Let%27s+collaborate+and+innovate!" />
 </p>
