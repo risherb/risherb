@@ -9,8 +9,22 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/ZZ5H.gif" alt="Matrix GIF" width="600" style="display: block; margin: 20px auto;" />
+  <svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg" style="background-color:black;">
+    <text x="50%" y="50%" text-anchor="middle" fill="#3FF5E6" font-size="30" font-family="monospace" opacity="0.1">
+      <animate attributeName="opacity" values="0.1;1;0.1" dur="4s" repeatCount="indefinite" />
+      <tspan dy="0">1010101010101010</tspan>
+      <tspan dy="20">0010110101010101</tspan>
+      <tspan dy="20">1100101010001010</tspan>
+      <tspan dy="20">0101010101011101</tspan>
+      <tspan dy="20">1010101010001011</tspan>
+      <tspan dy="20">0101010101011100</tspan>
+      <tspan dy="20">1010010100101010</tspan>
+      <tspan dy="20">0101010110101010</tspan>
+      <tspan dy="20">1100101010110100</tspan>
+    </text>
+  </svg>
 </p>
+
 
 ---
 
