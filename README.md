@@ -1,30 +1,17 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=2000&color=3FF5E6&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I'm+Rishabh+%7C+%40risherb;AI+%7C+ML+%7C+Finance+%7C+DeFi+%7C+DataScience" alt="Typing SVG" />
-</p>
+<div style="display: flex; align-items: center; justify-content: center; margin-bottom: 20px;">
+  <div style="flex: 1; text-align: center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=2000&color=3FF5E6&center=true&vCenter=true&width=300&height=60&lines=Hello%2C+I'm+Rishabh+%7C+%40risherb;AI+%7C+ML+%7C+Finance+%7C+DeFi+%7C+DataScience" alt="Typing SVG" />
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Matrix GIF" width="400" />
+  </div>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%233377FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-%232892FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/DeFi%20and%20Fintech-%230099FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
-
-<p align="center">
-  <svg width="600" height="300" viewBox="0 0 600 300" xmlns="http://www.w3.org/2000/svg" style="background-color:black;">
-    <text x="50%" y="50%" text-anchor="middle" fill="#3FF5E6" font-size="30" font-family="monospace" opacity="0.1">
-      <animate attributeName="opacity" values="0.1;1;0.1" dur="4s" repeatCount="indefinite" />
-      <tspan dy="0">1010101010101010</tspan>
-      <tspan dy="20">0010110101010101</tspan>
-      <tspan dy="20">1100101010001010</tspan>
-      <tspan dy="20">0101010101011101</tspan>
-      <tspan dy="20">1010101010001011</tspan>
-      <tspan dy="20">0101010101011100</tspan>
-      <tspan dy="20">1010010100101010</tspan>
-      <tspan dy="20">0101010110101010</tspan>
-      <tspan dy="20">1100101010110100</tspan>
-    </text>
-  </svg>
-</p>
-
 
 ---
 
@@ -36,31 +23,31 @@
 
 ## 💻 **Professional Tech Stack**
 
-<table align="center">
-  <tr>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=black"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/C-A8B400.svg?style=for-the-badge&logo=c&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/TensorFlow-FF6F20.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td>
-    <td align="center" width="120"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/></td>
-  </tr>
+<table align="center"> 
+  <tr> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Python-FFD43B.svg?style=for-the-badge&logo=python&logoColor=black"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/C-A8B400.svg?style=for-the-badge&logo=c&logoColor=white"/></td> 
+  </tr> 
+  <tr> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=sqlite&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/></td> 
+  </tr> 
+  <tr> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/TensorFlow-FF6F20.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"/></td> 
+  </tr> 
+  <tr> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></td> 
+    <td align="center" width="120"><img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/></td> 
+  </tr> 
 </table>
 
 ---
@@ -89,5 +76,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=3FF5E6&center=true&width=500&lines=Let%27s+collaborate+and+innovate!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=3FF5E6&center=true&width=500&lines=Let's+collaborate+and+innovate!" />
 </p>
