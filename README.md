@@ -1,16 +1,12 @@
-<div style="display: flex; align-items: center; justify-content: space-around; margin-bottom: 30px; flex-wrap: wrap; padding: 20px;">
-  <!-- Left side: Typing SVG -->
-  <div style="flex: 1; text-align: center; min-width: 320px; padding-right: 15px; box-sizing: border-box;">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=2000&color=3FF5E6&center=true&vCenter=true&width=300&height=60&lines=Hello%2C+I'm+Rishabh+%7C+%40risherb;AI+%7C+ML+%7C+Finance+%7C+DeFi+%7C+DataScience" 
-         alt="Typing SVG" style="max-width: 100%;" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; padding: 20px; flex-wrap: wrap;">
+  <div style="flex: 1; text-align: center; min-width: 320px; padding-right: 10px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=2000&color=3FF5E6&center=true&vCenter=true&width=300&height=60&lines=Hello%2C+I'm+Rishabh+%7C+%40risherb;AI+%7C+ML+%7C+Finance+%7C+DeFi+%7C+DataScience" alt="Typing SVG" style="max-width: 100%;" />
   </div>
-
-  <!-- Right side: Matrix GIF -->
-  <div style="flex: 1; text-align: center; min-width: 320px; padding-left: 15px; box-sizing: border-box;">
-    <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" 
-         alt="Matrix GIF" style="width: 100%; max-width: 400px; border-radius: 8px;" />
+  <div style="flex: 1; text-align: center; min-width: 320px; padding-left: 10px;">
+    <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Matrix GIF" style="width: 100%; max-width: 400px; margin: 0 auto;" />
   </div>
 </div>
+
 
 
 
