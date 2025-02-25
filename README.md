@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=2000&color=3FF5E6&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I'm+Rishabh+%7C+%40risherb;AI+%7C+ML+%7C+Finance+%7C+DeFi+%7C+DataScience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4000&pause=2000&color=3FF5E6&center=true&vCenter=true&width=600&height=60&lines=Hello%2C+I'm+Rishabh+%7C+%40risherb;AI+%7C+ML+%7C+DataScience" alt="Typing SVG" />
 </p>   
 
 
@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%233377FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-%232892FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DeFi%20and%20Fintech-%230099FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain%20and%20Encryption-%230099FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
 ---
