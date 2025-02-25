@@ -14,8 +14,8 @@
 ---
 
 ## ⚙️ **About Me**
-- 🎯 **Precision-Driven Techie** with interests spanning from **ML** to **DeFi** to **Data Science**
-- 🌌 Currently diving deep into **Encryption** and **Blockchain in Finance**
+- 🎯 **Precision-Driven Techie** with interests spanning from **ML** to **Data Science**
+- 🌌 Currently diving deep into **Signal Processing** and **Blockchain**
 
 ---
 
@@ -69,7 +69,7 @@
 ---
 
 ### 🔥 **Fun Fact**
-- *capable of devouring 10 burgers in one go*
+- *capable of smashing 10 burgers in one go and still be hungry*
 
 ---
 
