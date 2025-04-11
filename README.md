@@ -8,14 +8,14 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-%233377FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-%232892FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Blockchain%20and%20Encryption-%230099FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-%230099FF.svg?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </p>
 
 ---
 
 ## ⚙️ **About Me**
-- 🎯 **Precision-Driven Techie** with interests spanning from **ML** to **Data Science**
-- 🌌 Currently diving deep into **Signal Processing** and **Blockchain**
+- 🎯 **Precision-Driven Techie** with interests spanning from **AI** to **Data Science**
+- 🌌 Currently diving deep into **EEG Signal Processing** and **AI Agents**
 
 ---
 
