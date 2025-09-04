@@ -13,13 +13,14 @@
 
 ---
 
-## ⚙️ **About Me**
-- 🎯 **Precision-Driven Techie** with interests spanning from **AI** to **Data Science**
-- 🌌 Currently diving deep into **EEG Signal Processing** and **AI Agents**
+## **About Me**
+- I like to eat.
+- **Precision driven** with interests spanning from **AI** to **Data Science**
+- Currently diving deep into **AI Agents**
 
 ---
 
-## 💻 **Professional Tech Stack**
+##**Professional Tech Stack**
 
 <table align="center"> 
   <tr> 
@@ -50,7 +51,7 @@
 
 ---
 
-## 📬 **Reach Out**
+## **Reach Out**
 <p align="center">
   <a href="https://linkedin.com/in/rishabhnshetty">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -68,8 +69,9 @@
 
 ---
 
-### 🔥 **Fun Fact**
+### **Fun Fact**
 - *capable of smashing 10 burgers in one go and still be hungry*
+- i try to work hard.
 
 ---
 
