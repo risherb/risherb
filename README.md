@@ -20,7 +20,7 @@
 
 ---
 
-##**Professional Tech Stack**
+## **Professional Tech Stack**
 
 <table align="center"> 
   <tr> 
